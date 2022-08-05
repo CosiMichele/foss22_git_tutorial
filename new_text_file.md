@@ -6,4 +6,5 @@ This could be any sort of code, format it as necessary and
 **add the right extension when naming your file** (above).
 
 
-This line is added with the aim to be removed in 2 commits.
+
+This line has been added.
